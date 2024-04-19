@@ -186,7 +186,7 @@ nav ul li a:hover::after{
     flex-direction: column;
     padding: 0 40px;
     text-align: center;
-    font-size: 16px;
+    font-size: 12px;
     color: white;
     transition: height s;
 }
